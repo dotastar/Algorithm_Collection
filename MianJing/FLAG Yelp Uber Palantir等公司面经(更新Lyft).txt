@@ -49,13 +49,6 @@ http://www.mitbbs.com/article_t/JobHunting/32702941.html
 会逐渐给提示，follow hint就可以。pure storage喜欢一个题用好几种方法解，每个
 题目都让不断的优化优化。
 
-Uber：
-1. regex match
-2. 实现trie
-3. youtube architecture设计。
-4. 聊天。
-5. min stack
-
 Palantir：
 1. 判断长度为K的substr有木有重复的字符。
 2. LRU
